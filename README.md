@@ -41,7 +41,7 @@ curl --request POST \
 
 The response will contain a json object, having the access token in `json["oauth"]["access_token"]`. For all subsequent calls this has to be added to the request headers as `Authorization: Bearer {access_token}`.
 
-A possible implementation in `Python` could be the following. You don't have to copy over this one, feel free to indivualize it or use a different network library.
+A possible implementation in `Swift` could be the following. You don't have to copy over this one, feel free to indivualize it or use a different network library.
 
 ```swift
 import Foundation
