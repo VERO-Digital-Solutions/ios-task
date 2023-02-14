@@ -3,10 +3,7 @@ Hello dear iOS dev prospect!
 This repository is supposed to act as a playground for your submission.
 Before getting started, please make sure to use this repository as a template on which you will commit and push your code regularly. Once you are ready, please mail us back the link to your repository. 
 
-Below, you will find the **Task** definition.
-If you stumble upon any problems or have questions regarding the task, feel free to send me a mail (<christian.schaefers@vero.de>).
-
-Happy Hacking :computer: and Good Luck :shamrock:
+Below, you will find the **Task** definition. Happy Hacking :computer: and Good Luck :shamrock:
 
 # Task
 
